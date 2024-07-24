@@ -1,0 +1,25 @@
+{
+  "title": "Python单词汇总",
+  "words": [
+    {
+      "id": 1,
+      "word": "if",
+      "translation": "如果",
+      "phonetic": "/ɪf/",
+      "usage": "if zyb_box.button('A'):\n  zyb_box.motor('A', 10, 0)",
+      "explain": "实现一组条件判断",
+      "imgurl": "if.png"
+    },
+    {
+      "id": 2,
+      "word": "button",
+      "translation": "按钮, 按键",
+      "phonetic": "/ˈbʌtn/",
+      "usage": "zyb_box.button('B')",
+      "explain": "检测是否按下按钮",
+      "imgurl": "button.png"
+    }
+  ]
+}
+
+

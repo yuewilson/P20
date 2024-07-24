@@ -1,0 +1,15 @@
+{
+  "title": "Python单词汇总",
+  "words": [
+    {
+      "id": 1,
+      "word": "speak",
+      "translation": "说话, 交谈",
+      "phonetic": "/spiːk/",
+      "usage": "zyb_ai.speak('大家好', 1)",
+      "explain": "用数字音色说出指定内容",
+      "imgurl": "speak.png"
+    }
+  ]
+}
+
