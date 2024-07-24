@@ -1,0 +1,34 @@
+{
+  "title": "Python单词汇总",
+  "words": [
+    {
+      "id": 1,
+      "word": "motor",
+      "translation": "电机, 发动机",
+      "phonetic": "/ˈmoʊtər/",
+      "usage": "zyb_box.motor('A', 10, 0)",
+      "explain": "控制电机按照指定速度正转或反转",
+      "imgurl": "motor.png"
+    },
+    {
+      "id": 2,
+      "word": "import",
+      "translation": "导入",
+      "phonetic": "/ɪmˈpɔːrt/",
+      "usage": "import zyb_box",
+      "explain": "导入模块",
+      "imgurl": "import.png"
+    },
+    {
+      "id": 3,
+      "word": "box",
+      "translation": "盒, 箱",
+      "phonetic": "/bɑːks/",
+      "usage": "zyb_box.motor('A', 10, 0)",
+      "explain": "控制电机按照指定速度正转或反转",
+      "imgurl": "box.png"
+    }
+  ]
+}
+
+
